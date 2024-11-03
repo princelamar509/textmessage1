@@ -5,7 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/textmessage1/',
-  server: {
-    port: 3000
-  }
+ 
 })
