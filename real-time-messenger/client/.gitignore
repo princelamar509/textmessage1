@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+real-time-messenger/client/.env
+real-time-messenger/server/.env
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment files
+real-time-messenger/server/.env
+real-time-messenger/server/.env
+real-time-messenger/client/.env
+real-time-messenger/server/.env
+real-time-messenger/client/.env.local
+real-time-messenger/server/.env.local
+real-time-messenger/client/.env.development.local
+real-time-messenger/server/.env.development.local
+.env
+.env.local
+.env.development.local
